@@ -1,4 +1,4 @@
-# Project Domum
+# [Project Domum](https://github.com/lxRbckl/Project-Domum/wiki)
 > Manage power outlets by utilizing the GPIO pins of a Raspberry Pi. Discontinued. Spring 2021.
 
 ---
